@@ -9,7 +9,7 @@ Examples
 
 ```shell
 frsh create file somefile.txt
-# Equivalent to `touch somefile`
+# Equivalent to `touch somefile.txt`
 
 frsh append text to file somefile.txt "Hello, World!"
 # `echo "Hello, World!" >> somefile.txt`
